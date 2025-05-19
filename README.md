@@ -46,7 +46,6 @@ Open to new challenges, international collaboration, and always ready to bring f
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![YAML](https://img.shields.io/badge/-YAML-000?logo=yaml&logoColor=white)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?logo=githubactions&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 
@@ -73,7 +72,7 @@ Open to new challenges, international collaboration, and always ready to bring f
 ## 🤝 Let's Connect
 
 📍 Warsaw, Poland  
-📧 [shnurko.artyn@gmail.com](mailto:shnurko.artyom@gmail.com)  
+📧 [shnurko.artyom@gmail.com](mailto:shnurko.artyom@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/artem-shnurko-b66771249)  
 💻 [GitHub](https://github.com/DarkArtyom)
 
