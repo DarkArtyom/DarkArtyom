@@ -13,6 +13,7 @@ Open to new challenges, international collaboration, and always ready to bring f
 ## 🚀 Tech Stack
 
 ### 💻 Languages & Frameworks
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -24,6 +25,7 @@ Open to new challenges, international collaboration, and always ready to bring f
 ![REST API](https://img.shields.io/badge/-REST%20API-%23007AFF?logo=api&logoColor=white)
 
 ### 🎨 Styling & UI
+
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
@@ -31,12 +33,13 @@ Open to new challenges, international collaboration, and always ready to bring f
 ![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?logo=styled-components&logoColor=white)
 
 ### 🧪 Testing & Tools
+
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?logo=styled-components&logoColor=white)
 
-
 ### 🔧 Tools & DevOps
+
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?logo=github-actions&logoColor=white)
@@ -46,14 +49,24 @@ Open to new challenges, international collaboration, and always ready to bring f
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?logo=githubactions&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ### 📊 Monitoring & Observability
+
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?logo=datadog&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+
+---
+
+## 📈 Git Commit Activity
+
+> Although many contributions are made in enterprise repos, here's a snapshot of my real commit activity:
+
+![Commit activity chart](./assets/commit-activity.jpg)
 
 ---
 
